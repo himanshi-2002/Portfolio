@@ -180,6 +180,9 @@ span{
     border-radius: 10px;
     transition: background 0.5s,transform 0.5s;
 }
+.color div{
+    background-color: rgb(243, 215, 215);
+}
 .work-list div h3{
     font-size:25px;
     color:white;
@@ -205,6 +208,7 @@ span{
     background: #ff004f;
     color:white;
 }
+
 <!----css on small screens-------->
 
 @media only screen and (max-width: 600px){
@@ -219,4 +223,5 @@ span{
         font-size: 30px;
     }
 }
+
 
