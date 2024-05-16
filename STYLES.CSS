@@ -181,7 +181,8 @@ span{
     transition: background 0.5s,transform 0.5s;
 }
 .color div{
-    background-color: rgb(243, 215, 215);
+    background-color:white;
+    color:#ff004f;
 }
 .work-list div h3{
     font-size:25px;
@@ -208,6 +209,16 @@ span{
     background: #ff004f;
     color:white;
 }
+.color div h3{
+    color:#ff004f; 
+}
+.research h1{
+    color:white;
+}
+.research p{
+    color:#ff004f;
+}
+
 
 <!----css on small screens-------->
 
